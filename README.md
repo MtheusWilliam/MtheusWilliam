@@ -5,7 +5,6 @@
 
 I'm Matheus William, a brazilian Front-End Developer and I'm passionate about Design and Web Development technologies (specially Vue.Js). 
 
-- 🖥️Systems Analyst at [Elizeu Martins Supermercados](https://www.elizeumartins.com.br/)
-- 🏢Starting the Software Development Company [Plinth Code](https://www.instagram.com/plinthcode/)
-- 💻Studying and Working with Vue.Js and Flutter
-- 🎓Computer Science at [Universidade Estadual do Piauí](https://www.uespi.br/site/)
+- 🖥️Front-end Developer at [Kaledo](https://kaledo.com.br/)
+- 💻Studying and Working with Vue.Js
+- 🎓Computer Scientist at [Universidade Estadual do Piauí](https://www.uespi.br/site/)
